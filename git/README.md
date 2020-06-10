@@ -33,6 +33,10 @@ git push origin develop
 git branch --set-upstream-to origin/develop
 Branch 'develop' set up to track remote branch 'develop' from 'origin'
 ```
+or
+```sh
+git push -u origin develop
+```
 > 개발 브랜치를 원격 저장소에 생성하고
 > 생성된 원격 저장소의 개발 브랜치와 로컬 저장소의 브랜치를 연결한다.
 
