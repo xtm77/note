@@ -58,3 +58,5 @@
   ## vuetify
   1. 
 
+## 트랜지션
+[트랜지션](https://kr.vuejs.org/v2/guide/transitions.html)
