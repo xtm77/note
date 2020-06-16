@@ -40,7 +40,7 @@
 ---
 
 ## Git Branch Work Flow
-![GitFlowBranches](../images/gitflow.png)
+![GitFlowBranches](images/gitflow.png)
 
 
 ## Git Branch
