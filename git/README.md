@@ -62,7 +62,8 @@ git checkout feature/file-management
 git branch feature/file-management-dev1
 git checkout feature/file-managemen-dev2
 ```
-> 필요한 경우 원격 저장소에 브랜치를 생성한다. 개발자별로 브랜치를 계속 만들 경우 브랜치 목록이 지저분해지고 관리가 하기 어려워 진다.  
+> 필요한 경우 원격 저장소에 브랜치를 생성한다.  
+> 개발자별로 브랜치를 계속 만들 경우 브랜치 목록이 지저분해지고 관리가 하기 어려워 진다.  
 > 부모 브랜치인 feature/file-management에 병합하여 원격 저장소에 공유하는 것이 낫다.  
 ```sh
 git push origin feature/file-management-dev1
@@ -139,5 +140,3 @@ git checkout master
 git merge hotfixes/1.1
 git push
 ```
-
-
