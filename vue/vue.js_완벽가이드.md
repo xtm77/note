@@ -1,5 +1,10 @@
 # vue.js 완벽가이드
 
+## 프로젝트 생성
+```sh
+vue create 프로젝트명
+```
+
   ## vue-router
   1. 설치
   > 프로젝트 디렉토리에서 아래와 같이 입력한다.
@@ -60,3 +65,18 @@
 
 ## 트랜지션
 [트랜지션](https://kr.vuejs.org/v2/guide/transitions.html)
+
+
+## hoc and mixin
+### HOC
+### Mixin
+---
+## 데이터 호출 시점
+### 라이프 사이클 훅
+### 라우터 네비게이션 가드
+---
+
+## 비동기처리
+### async
+### await
+
