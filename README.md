@@ -2,7 +2,7 @@
 ## Index
 
 
-|번호|카테고리|파일|설명|
+|<center>번호</center>|<center>카테고리</center>|<center>파일</center>|<center>설명</center>|
 |----:|:-------:|:----|:----|
 |1|[git](git/README.md)|[README.MD](git/README.md)|git 처리 흐름|
 |2|[git](git/README.md)|[git-command.md](git/git-command.md)|git 명령어|
