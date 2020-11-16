@@ -19,3 +19,10 @@
 #### apache batik
 https://xmlgraphics.apache.org/batik/
 https://github.com/apache/xmlgraphics-batik
+
+
+## intellij
+### 이슈
+#### Error:java: error: release version 5 not supported
+1. File>Settings...>Build, Execution, Deployment> Compiler를 연다.
+2. Per-module bytecode version에서 해당 모듈의 target bytecode version을 변경한다.
