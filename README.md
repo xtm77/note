@@ -14,3 +14,8 @@
 ## svg 생성툴
 (Inkscape)[https://inkscape.org/ko/]
 ### image to svg 라이브러리 알아보기
+
+### svg to image
+#### apache batik
+https://xmlgraphics.apache.org/batik/
+https://github.com/apache/xmlgraphics-batik
